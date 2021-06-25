@@ -1,6 +1,6 @@
 # ecommerce-mini-app
 
-> A Vue.js project
+> This project is a mini e-commerce web application developed using the Vue framework, where products can be listed and basket transactions can be made.
 
 ## Build Setup
 
